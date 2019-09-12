@@ -175,4 +175,193 @@
         android:visibility="visible"
         tools:visibility="visible"/>
 
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF5EE"
+        android:text="Twenty Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF0F5"
+        android:text="Twenty-One Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFEFD5"
+        android:text="Twenty-Two Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFEBCD"
+        android:text="Twenty-Three Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFE4E1"
+        android:text="Twenty-Four Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFE4C4"
+        android:text="Twenty-Five Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFE4B5"
+        android:text="Twenty-Six Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFDEAD"
+        android:text="Twenty-Seven Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFDAB9"
+        android:text="Twenty-Eight Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFA500"
+        android:text="Twenty-Nine Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFA07A"
+        android:text="Thirty Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF8C00"
+        android:text="Thirty-One Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF7F50"
+        android:text="Thirty-Two Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF69B4"
+        android:text="Thirty-Three Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF6347"
+        android:text="Thirty-Four Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF4500"
+        android:text="Thirty-Five Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF1493"
+        android:text="Thirty-Six Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF00FF"
+        android:text="Thirty-Seven Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF0000"
+        android:text="Thirty-Eight Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FA8072"
+        android:text="Thirty-Nine Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F4A460"
+        android:text="Fourty Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
 </LinearLayout>
