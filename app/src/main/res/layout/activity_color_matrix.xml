@@ -94,4 +94,85 @@
         android:visibility="visible"
         tools:visibility="visible"/>
 
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#CDDC39"
+        android:text="Eleven Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFEB3B"
+        android:text="Twelve Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFC107"
+        android:text="Thirteen Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF9800"
+        android:text="Fourteen Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFE4C4"
+        android:text="Fifteen Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFAFA"
+        android:text="Sixteen Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFAF0"
+        android:text="Seventeen Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFACD"
+        android:text="Eighteen Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF8DC"
+        android:text="Nineteen Button"
+        android:visibility="visible"
+        tools:visibility="visible"/>
+
 </LinearLayout>
